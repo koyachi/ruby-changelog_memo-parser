@@ -1,0 +1,17 @@
+2012-03-13 (Tue)  t.koyachi@home  <sample@test.com>
+
+	* tag1: title1 from clmemo.txt
+	body-line1
+	body-line2
+
+2012-03-12 (Mon)  t.koyachi@home  <sample@test.com>
+
+	* tag2: title2 from clmemo.txt
+	body2-line1
+
+	* tag3_1, tag3_2: title3 from clmemo.txt
+	body3-line1
+	body3-line2
+
+	* tag4_1: title4 from clmemo.txt
+	body4-line1
